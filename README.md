@@ -159,6 +159,38 @@ audio-captions-rt/
     └── ggml-base.bin      # 基础模型 (147MB)
 ```
 
+### 🚧 开发计划 (TODO List)
+
+我们正在积极开发以下功能，敬请期待：
+
+#### 🔄 实时翻译
+- [ ] 在转录基础上实现实时翻译功能
+- [ ] 支持多种语言之间的互译
+- [ ] 集成高质量翻译模型
+- [ ] 实时字幕显示
+
+#### 📊 音频汇总
+- [ ] 会议音频内容智能总结
+- [ ] 关键点提取和标记
+- [ ] 时间轴标注
+- [ ] 导出多种格式（文本、PDF、Markdown）
+
+#### 🎤 智能语音系统
+- [ ] **麦克风拦截**: 实时捕获麦克风输入
+- [ ] **音色克隆**: 学习并复制特定说话人的音色特征
+- [ ] **TTS 翻译**: 将说话人的语言实时翻译成其他语音
+- [ ] **跨语言对话**: 支持不同语言用户之间的实时对话
+
+#### 🌟 高级功能
+- [ ] 多说话人识别和分离
+- [ ] 情感分析和语调识别
+- [ ] 自定义词汇和专业术语支持
+- [ ] 云端同步和协作功能
+
+---
+
+**💡 欢迎贡献**: 如果您对这些功能感兴趣，欢迎提交 Issue 或 Pull Request 来帮助实现！
+
 ### 🔍 故障排除
 
 #### 常见问题
@@ -383,6 +415,38 @@ audio-captions-rt/
     ├── ggml-small.bin     # Recommended model (244MB)
     └── ggml-base.bin      # Basic model (147MB)
 ```
+
+### 🚧 Development Roadmap (TODO List)
+
+We are actively developing the following features. Stay tuned!
+
+#### 🔄 Real-time Translation
+- [ ] Implement real-time translation based on transcription
+- [ ] Support translation between multiple languages
+- [ ] Integrate high-quality translation models
+- [ ] Real-time subtitle display
+
+#### 📊 Audio Summarization
+- [ ] Intelligent meeting audio content summarization
+- [ ] Key point extraction and tagging
+- [ ] Timeline annotation
+- [ ] Export to multiple formats (Text, PDF, Markdown)
+
+#### 🎤 Intelligent Voice System
+- [ ] **Microphone Interception**: Real-time capture of microphone input
+- [ ] **Voice Cloning**: Learn and replicate specific speaker's voice characteristics
+- [ ] **TTS Translation**: Real-time translation of speaker's language into other voices
+- [ ] **Cross-language Dialogue**: Support real-time conversation between users of different languages
+
+#### 🌟 Advanced Features
+- [ ] Multi-speaker identification and separation
+- [ ] Emotion analysis and tone recognition
+- [ ] Custom vocabulary and professional terminology support
+- [ ] Cloud synchronization and collaboration features
+
+---
+
+**💡 Welcome Contributions**: If you're interested in these features, feel free to submit Issues or Pull Requests to help implement them!
 
 ### 🔍 Troubleshooting
 
